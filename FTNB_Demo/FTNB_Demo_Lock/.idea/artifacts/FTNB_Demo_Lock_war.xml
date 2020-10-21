@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FTNB_Demo_Lock:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ftnb-demo-lock.war">
+      <element id="artifact" artifact-name="FTNB_Demo_Lock:war exploded" />
+    </root>
+  </artifact>
+</component>
